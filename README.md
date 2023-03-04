@@ -1,2 +1,3 @@
 # The-Jim-button
-the jim buttn
+ press the jim button
+ IF YOU DARE!
